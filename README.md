@@ -1,6 +1,12 @@
 # Redissh
 I’m a Full-Stack Developer, AI Software Developer, and Game Developer who loves mixing creativity with code. All my projects are fully open source because I believe tech should be shared, transparent, and collaborative. Whether I’m building apps, AI tools, or games, my goal is always to solve real-world problems with creative and accessible technology. 👨🏻‍💻
 
+---
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/armsulaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armendsulaj/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Redissh) 
 
