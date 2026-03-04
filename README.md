@@ -1,5 +1,5 @@
 # Armend Sulaj
-I’m a Full-Stack Developer and AI Software Developer who loves mixing creativity with code. My projects are open source because I believe tech should be shared, transparent, and collaborative. Whether I’m building apps or AI tools my goal is always to solve real-world problems with creative and accessible technology. 👨🏻‍💻
+I began my journey as a Full-Stack Developer three years ago and have since focused on developing sophisticated web applications and software solutions that leverage AI and cutting-edge technologies, consistently surpassing expectations. Throughout this journey, I have worked on innovative projects such as EdBot and earned recognition, including High Honors at the National IT Olympics. During high school, I led the IT and Robotics Club for three consecutive years, fostering collaboration, mentorship, and hands-on learning experiences. I am deeply committed to leveraging technology to solve real-world problems while staying up-to-date with the latest advancements.👨🏻‍💻
 
 ---
 
