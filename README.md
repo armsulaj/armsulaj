@@ -9,4 +9,4 @@ I began my journey as a Full-Stack Developer three years ago and have since focu
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/armsulaj) 
-[![BuyMeACoffee](https://img.shields.io/badge/Buymeacoffee-%23E4405F.svg?logo=Instagram&logoColor=white)](https://buymeacoffee.com/armsulaj) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buymeacoffee-%23E4405F.svg?logo=Buymeacoffee&logoColor=white)](https://buymeacoffee.com/armsulaj) 
